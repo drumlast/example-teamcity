@@ -4,7 +4,7 @@
 ---
 
 ## 1. Виртуальные машины в Yandex Cloud
-(/img/01.png)
+[!](/img/01.png)
 - Три ВМ: TeamCity Server, TeamCity Agent, Nexus.
 - Все сервера находятся в одной зоне доступности.
 
